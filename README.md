@@ -43,5 +43,4 @@ It allows you to generate strong passwords with advanced options like avoiding s
 2. **Run the Application**
    ```bash
    python advanced_password_generator.py
-```
 
