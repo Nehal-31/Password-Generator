@@ -1,4 +1,4 @@
-# 🔐 Advanced Password Generator (Python + Tkinter)
+# 🔐 Password Generator (Python + Tkinter)
 
 A secure, customizable, and user-friendly password generator built with Python’s `Tkinter` library.  
 It allows you to generate strong passwords with advanced options like avoiding sequences, excluding lookalikes, and estimating strength in real time.
@@ -40,4 +40,8 @@ It allows you to generate strong passwords with advanced options like avoiding s
    ```
 
    
-   
+2. **Run the Application**
+   ```bash
+   python advanced_password_generator.py
+```
+
